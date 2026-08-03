@@ -1,12 +1,12 @@
 {
   "heartbeat": {
     "last_dispatch": "2026-08-03T13:59:57Z",
-    "last_status": "dispatched",
-    "last_failed": "2026-08-03T11:37:42Z",
-    "total_runs": 380,
+    "last_status": "failed",
+    "last_failed": "2026-08-03T14:00:19Z",
+    "total_runs": 381,
     "total_successes": 0,
-    "total_failures": 380,
-    "consecutive_failures": 380,
+    "total_failures": 381,
+    "consecutive_failures": 381,
     "success_rate": 0,
     "last_error": "0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{"
   }
